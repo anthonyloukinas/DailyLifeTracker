@@ -4,7 +4,6 @@ import React from "react";
 export function Header({ title }) {
     return (
         <View style={style.header}>
-
             <Text style={style.title}>
                 {title}
             </Text>

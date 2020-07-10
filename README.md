@@ -4,6 +4,8 @@ A mobile app built to assist you in tracking major functions of daily life inclu
 Mental Health). This application was built to help a friend of mine dealing with major health issues and needed a 
 central location for tracking these functions. Hopefully others will find use for this as well.
 
+d
+
 ## Development
 
 You need an Android emulator setup using API 28 or later. 

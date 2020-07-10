@@ -16,12 +16,12 @@ const style = StyleSheet.create({
     header: {
         height: 65,
         paddingTop: 20,
-        backgroundColor: 'coral'
+        backgroundColor: 'coral',
     },
     title: {
         textAlign: 'center',
         color: '#fff',
         fontSize: 20,
-        fontWeight: 'bold'
-    }
+        fontWeight: 'bold',
+    },
 });
